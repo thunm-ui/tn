@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v22_397 {
+  width: 523px;
+  height: 60px;
+  background: url("../images/v22_397.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 28px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_398 {
+  width: 523px;
+  height: 60px;
+  background: url("../images/v22_398.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_399 {
+  width: 555px;
+  color: rgba(33,33,33,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Reem Kufi Fun;
+  font-weight: Bold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}

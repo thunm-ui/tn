@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v22_372 {
+  width: 597px;
+  height: 167px;
+  background: url("../images/v22_372.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 16px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v22_374 {
+  width: 597px;
+  color: rgba(33,33,33,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Reem Kufi Fun;
+  font-weight: Bold;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
